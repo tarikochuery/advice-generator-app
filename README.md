@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Project Print](./advice-generator-app-main/images/project-print.png)
+![Project Print](./public/project-print.png)
 
-![Project Print Hover](./advice-generator-app-main/images/project-print-hover.png)
+![Project Print Hover](./public/project-print-hover.png)
 
 
 ### Links

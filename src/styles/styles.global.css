@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&family=Manrope:wght@400;800&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  /*Primary Colors*/
+  --light-cyan: hsl(193, 38%, 86%);
+  --neon-green: hsl(150, 100%, 66%);
+
+  /*Neutral Colors*/
+  --grayish-blue: hsl(217, 19%, 38%);
+  --dark-grayish-blue: hsl(217, 19%, 24%);
+  --dark-blue: hsl(218, 23%, 16%)
+}
+
+body {
+  background-color: var(--dark-blue);
+  height: 100vh;
+  max-width: 1440px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 20px;
+}

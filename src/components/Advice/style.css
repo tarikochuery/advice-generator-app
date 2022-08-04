@@ -1,0 +1,12 @@
+.id {
+  color: var(--neon-green);
+  letter-spacing: 4px;
+  font-size: 20px;
+}
+
+.advice-container {
+  color: var(--light-cyan);
+  font-size: 28px;
+  text-align: center;
+  width: 100%;
+}

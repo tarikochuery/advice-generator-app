@@ -1,0 +1,27 @@
+.btn {
+  background-color: var(--neon-green);
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+
+  margin-top: -30px;
+}
+
+.btn:hover {
+  box-shadow: 0 0 40px var(--neon-green);
+  cursor: pointer;
+}
+
+.disabled {
+  background-color: var(--light-cyan);
+}
+
+button.disabled:hover {
+  cursor: not-allowed;
+  box-shadow: none;
+}

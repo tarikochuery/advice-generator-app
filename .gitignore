@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/advice-generator-app-main
 
 # testing
 /coverage
